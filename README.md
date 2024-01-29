@@ -1,5 +1,12 @@
 # LinkedIn Clone using React + Vite & JavaScript
 
+Users:
+    - Authentication/Authorization
+    - View and Edit Profile
+
+Posts:
+    - Create, Edit and Delete Posts
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
